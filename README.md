@@ -1,7 +1,7 @@
 # presentations
 
 Meetup ngPoznan 11.06.2015
-* Trend hybrid apps - Michał Olczak
+* [Trend hybrid apps - Michał Olczak](https://drive.google.com/file/d/0B2KtyURYAjXvQ1Rxa0xzcnFBZGc/view)
 * [NFC support in hybrid applications - Bartosz Schiller](https://drive.google.com/file/d/0B9TuDhbptxI-clFLRDBpTVlTQWc/view)
 * [Debugging hybrid apps](https://docs.google.com/presentation/d/1ZsftUd2e92eW8IBF25o_T5KGud-xHGuXmIPFE3Yhu7s/edit?usp=sharing)
 
