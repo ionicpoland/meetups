@@ -4,6 +4,7 @@ Meetup ionicpoland & ngPoznan 13.08.2015
 * [Sails.js Overview - Sebastion Pożega](http://www.slideshare.net/sebastianpozoga/sailsjs-overview)
 * [Ionic News - Łukasz Olejarczuk](https://docs.google.com/presentation/d/1NdzdJLkz3HjRLcqobXw9LEabCBZCHCcnKF-9fg6cI6Q/edit?usp=sharing)
 * [videos](http://events.pozoga.eu/ng-poznan-14/)
+
 Meetup ngPoznan 11.06.2015
 * [Trend hybrid apps - Michał Olczak](https://drive.google.com/file/d/0B2KtyURYAjXvQ1Rxa0xzcnFBZGc/view)
 * [NFC support in hybrid applications - Bartosz Schiller](https://drive.google.com/file/d/0B9TuDhbptxI-clFLRDBpTVlTQWc/view)
