@@ -1,6 +1,6 @@
 # presentations
 Meetup Ionic Poland & ngPoznan 13.08.2015
-* [Ionic Push - Łukasz Bociański]()
+* [Ionic Push - Łukasz Bociański](https://docs.google.com/presentation/d/1MA57y0M6YoXlXuM9osrKv0linN6_xqfXWoasyBzj1WY/edit?usp=sharing)
 * [Sails.js Overview - Sebastion Pożega](http://www.slideshare.net/sebastianpozoga/sailsjs-overview)
 * [Ionic News - Łukasz Olejarczuk](https://docs.google.com/presentation/d/1NdzdJLkz3HjRLcqobXw9LEabCBZCHCcnKF-9fg6cI6Q/edit?usp=sharing)
 * [videos](http://events.pozoga.eu/ng-poznan-14/)
