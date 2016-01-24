@@ -1,8 +1,8 @@
 # presentations
 Meetup Ionic Poland & ngPoznan 21.01.2016
 
-* [Ionic + PouchDB/CouchDB offline first approach](http://primemodule.com/ionic-poland.pdf)
-* [From MVP to a Product](https://drive.google.com/open?id=0B_nnU_ClGuufRGJnWWlpVjZyMHc)
+* [Ionic + PouchDB/CouchDB offline first approach - Marcin Wieprzkowicz](http://primemodule.com/ionic-poland.pdf)
+* [From MVP to a Product -  Krzysztof Hasiński](https://drive.google.com/open?id=0B_nnU_ClGuufRGJnWWlpVjZyMHc)
 
 Meetup Ionic Poland & ngPoznan 13.08.2015
 * [Ionic Push - Łukasz Bociański](https://docs.google.com/presentation/d/1MA57y0M6YoXlXuM9osrKv0linN6_xqfXWoasyBzj1WY/edit?usp=sharing)
